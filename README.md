@@ -26,7 +26,7 @@ Kandidat Magister Manajemen dengan latar belakang penelitian kuantitatif lintas 
 
 [🔗 Live demo](https://anggaes793.github.io/superstore-sales-dashboard/) · [💻 Kode sumber](https://github.com/anggaes793/superstore-sales-dashboard)
 
-<sub>Anda juga dapat melihat proyek-proyek saya yang lain serta [CV di sini](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).</sub>
+Anda juga dapat melihat proyek-proyek saya yang lain serta [CV di sini](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).
 
 </details>
 
@@ -49,7 +49,7 @@ Management Master's candidate with a background in cross-disciplinary quantitati
 
 [🔗 Live demo](https://anggaes793.github.io/superstore-sales-dashboard/) · [💻 Source code](https://github.com/anggaes793/superstore-sales-dashboard)
 
-<sub>You can also check my other projects and attached [CV here](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).</sub>
+You can also check my other projects and attached [CV here](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).
 
 </details>
 
