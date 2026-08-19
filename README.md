@@ -1,6 +1,6 @@
 <div align="center">
 
-*Klik judul di bawah untuk membuka bagian bahasanya — keduanya bisa dibuka bersamaan.*
+*Klik judul di bawah untuk membuka bagian bahasanya — keduanya bisa dibuka bersamaan.*<br>
 *Click a heading below to expand that language — both can be open at once.*
 
 </div>
