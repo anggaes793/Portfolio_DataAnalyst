@@ -26,7 +26,8 @@ Kandidat Magister Manajemen dengan latar belakang penelitian kuantitatif lintas 
 
 [🔗 Live demo](https://anggaes793.github.io/superstore-sales-dashboard/) · [💻 Kode sumber](https://github.com/anggaes793/superstore-sales-dashboard)
 
-Anda juga dapat melihat proyek-proyek saya yang lain serta [CV di sini](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).
+Anda juga dapat melihat [CV di sini](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/CV_ATS_Angga_Eka_Septian_ID.pdf). 
+Serta proyek-proyek saya yang lain [di sini](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/CV_ATS_Angga_Eka_Septian_ID.pdf).
 
 </details>
 
@@ -49,7 +50,8 @@ Management Master's candidate with a background in cross-disciplinary quantitati
 
 [🔗 Live demo](https://anggaes793.github.io/superstore-sales-dashboard/) · [💻 Source code](https://github.com/anggaes793/superstore-sales-dashboard)
 
-You can also check my other projects and attached [CV here](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/angga-cv%202025%20ENG-1.pdf).
+You can check my attached [CV here](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/CV_ATS_Angga_Eka_Septian_EN.pdf).
+Also check my other projects [here](https://github.com/anggaes793/Portfolio_DataAnalyst/blob/main/CV_ATS_Angga_Eka_Septian_EN.pdf).
 
 </details>
 
